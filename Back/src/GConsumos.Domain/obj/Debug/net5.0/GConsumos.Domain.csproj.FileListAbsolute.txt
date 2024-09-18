@@ -1,0 +1,12 @@
+C:\Users\LILIANE\Desktop\GConsumos\Back\src\GConsumos.Domain\bin\Debug\net5.0\GConsumos.Domain.deps.json
+C:\Users\LILIANE\Desktop\GConsumos\Back\src\GConsumos.Domain\bin\Debug\net5.0\GConsumos.Domain.dll
+C:\Users\LILIANE\Desktop\GConsumos\Back\src\GConsumos.Domain\bin\Debug\net5.0\ref\GConsumos.Domain.dll
+C:\Users\LILIANE\Desktop\GConsumos\Back\src\GConsumos.Domain\bin\Debug\net5.0\GConsumos.Domain.pdb
+C:\Users\LILIANE\Desktop\GConsumos\Back\src\GConsumos.Domain\obj\Debug\net5.0\GConsumos.Domain.csproj.AssemblyReference.cache
+C:\Users\LILIANE\Desktop\GConsumos\Back\src\GConsumos.Domain\obj\Debug\net5.0\GConsumos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LILIANE\Desktop\GConsumos\Back\src\GConsumos.Domain\obj\Debug\net5.0\GConsumos.Domain.AssemblyInfoInputs.cache
+C:\Users\LILIANE\Desktop\GConsumos\Back\src\GConsumos.Domain\obj\Debug\net5.0\GConsumos.Domain.AssemblyInfo.cs
+C:\Users\LILIANE\Desktop\GConsumos\Back\src\GConsumos.Domain\obj\Debug\net5.0\GConsumos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LILIANE\Desktop\GConsumos\Back\src\GConsumos.Domain\obj\Debug\net5.0\GConsumos.Domain.dll
+C:\Users\LILIANE\Desktop\GConsumos\Back\src\GConsumos.Domain\obj\Debug\net5.0\ref\GConsumos.Domain.dll
+C:\Users\LILIANE\Desktop\GConsumos\Back\src\GConsumos.Domain\obj\Debug\net5.0\GConsumos.Domain.pdb
